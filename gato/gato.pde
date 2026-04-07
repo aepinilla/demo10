@@ -1,4 +1,5 @@
 Gato miGato;
+Perro miPerro;
 
 void setup(){
    size(1000, 1000);
@@ -38,5 +39,6 @@ class Gato {
   void correr() {
     posX = posX + velocidad;
   }
-  
 }
+
+class Perro {}
