@@ -4,7 +4,7 @@ void setup(){
    size(1000, 1000);
    // Inicializamos el objeto
    //                tempC,    tempPosX, tempPosY, tempVel
-   miGato = new Gato(color(0), 0,      500,      5);
+   miGato = new Gato(color(255,255,0), 0,      500,      5);
 }
 
 void draw() {
