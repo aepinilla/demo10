@@ -1,5 +1,6 @@
 Gato miGato;
 Perro miPerro;
+Elefante miElefante;
 
 void setup(){
    size(1000, 1000);
@@ -42,3 +43,5 @@ class Gato {
 }
 
 class Perro {}
+
+class Elefante {}
