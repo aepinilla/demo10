@@ -1,6 +1,8 @@
 Gato miGato;
 Perro miPerro;
 
+// Un comentario
+
 void setup(){
    size(1000, 1000);
    // Inicializamos el objeto
